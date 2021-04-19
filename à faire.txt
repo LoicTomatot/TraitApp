@@ -1,0 +1,43 @@
+gcc -m32 TraitApp.c -o TraitApp.exe
+
+Bonjour à tous,
+ Lors de la dernière séance, je n'ai pas eu le temps de vous indiquer complètement le travail-maison à faire, il s'agit de :
+
+0. Terminer la dernière séance :
+ - Créer un menu (avec des sous-menus, éventuellement),
+ - Créer un sous-programme pour chaque traitement,
+ - Imprimer les accents dans les affichages de textes (voir table ASCII).
+
+1 . Affichage d'une image en :
+ - jaune,
+ - jaune foncé,
+ - violet,
+ - rose,
+ - orange,
+ - bleu ciel,
+ - marron.
+
+2. Inverser  les couleurs d'une image : le rouge devient cyan, le vert devient magenta, le bleu devient jaune, les régions sombres deviennent claires, le noir devient blanc et vice-versa.
+         
+3 . Créer une image symétrique (selon les axes vertical/horizontal),
+
+4 . Créer une image réduite (changement d'échelle),
+
+5 . Créer une image agrandie (changement d'échelle),
+
+6. Créer un cadre sombre autour d'une image,
+
+7 . Calculer le pourcentage de couleur (R, V, B, teinte, saturation, luminance) (voir l'en-tête de l'image),
+
+8 . Afficher les caractéristiques d'une image (voir en-tête).
+
+9. recherche à faire sur :
+- le seuillage,
+- l'histogramme.
+
+Remarques :
+ . Les traitements (0 à 8) ainsi que les commentaires, doivent figurer dans les fichiers source.c et image.h, que vous remettrez à la fin de la séance du vendredi 13/11.
+ . Aucun fichier ne sera accepté par envoi de courriel.
+
+Bon travail,
+Jean-Luc Henry
